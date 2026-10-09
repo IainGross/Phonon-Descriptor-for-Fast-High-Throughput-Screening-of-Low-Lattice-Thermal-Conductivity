@@ -1,7 +1,6 @@
 All relevant data for stable positive dispersion structures is given in CIF format.
 
-MSD is listed in the last column of Dispersions.cif
+See second file for MSD, Kc, and Kp.
 
-All calculated Kp and Kc values are given in Particle.cif and Coherence.cif
-
-7 DFT optimized structures are given in DFT.cif
+You may download the eSEN model weights from Fairchem's own page on matbench discovery:
+https://matbench-discovery.materialsproject.org/models/esen-30m-oam
